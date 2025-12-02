@@ -12,7 +12,8 @@ export default function Login() {
     e.preventDefault();
 
     // گرفتن داده از JSON Server
-    const res = await fetch("http://localhost:9000/admins");
+    // const res = await fetch("http://localhost:9000/admins");
+    const res = await fetch("https://692f3d7591e00bafccd70748.mockapi.io/admins");
     const admins = await res.json();
 
     // بررسی دقیق یوزر و پسورد

@@ -86,7 +86,7 @@ const Navbar = () => {
               <button
                 onClick={() => {
                   localStorage.removeItem("isLoggedIn");
-                  window.location.href = "/";
+                  window.location.href = "/books";
                 }}
                 className="w-[30%] bg-red-500 px-3 py-1 rounded hover:bg-red-600 duration-400"
               >
