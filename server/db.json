@@ -1,0 +1,75 @@
+{
+  "books": [
+    {
+      "bookname": "طاعون",
+      "price": "250000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/1687faaf7a3b51c0bfd1d6b7d3ea03edbdd6c3cf_1702970707.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "3",
+      "id": 1
+    },
+    {
+      "bookname": "مغازه خودکشی",
+      "price": "155000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/3f1e37f601c2ad7578b2ac8560a4e3b266122121_1733829637.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "1",
+      "id": 2
+    },
+    {
+      "bookname": "کتابخانه نیمه شب ",
+      "price": "300000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/7340c4d46dfbf128324dec6e001a273ee4eefc1e_1658548707.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "1",
+      "id": 3
+    },
+    {
+      "bookname": " قتل در خانواده",
+      "price": " 500000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/f77be17bc5cef7dde74cc22006ed12394e1d6263_1722189644.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "4",
+      "id": 4
+    },
+    {
+      "bookname": "سقوط",
+      "price": "195000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/bb92d72096f1fa36e5ac9ac4971cfe323fc0f8b9_1600252407.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "1",
+      "id": 5
+    },
+    {
+      "bookname": "1984",
+      "price": "160000",
+      "photo": "https://dkstatics-public.digikala.com/digikala-products/411b6d2fd655c1b46166bb169699652822159c41_1727795094.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "group": "5",
+      "id": 6
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "ترسناک"
+    },
+    {
+      "id": "2",
+      "name": "ماجراجویی"
+    },
+    {
+      "id": "3",
+      "name": "اجتماعی"
+    },
+    {
+      "id": "4",
+      "name": "جنایی"
+    },
+    {
+      "id": "5",
+      "name": "تاریخی"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "12345"
+    }
+  ]
+}
